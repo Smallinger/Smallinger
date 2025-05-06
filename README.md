@@ -5,6 +5,7 @@ Programming is my passion — I love building useful tools and contributing to o
 I strongly believe in the power of open collaboration, even though it often takes a lot of time and effort ⏳.
 
 If you like what I do, consider supporting me:  
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smallpox)
 
 Thanks for stopping by!
