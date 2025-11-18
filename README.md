@@ -6,6 +6,6 @@ I strongly believe in the power of open collaboration, even though it often take
 
 If you like what I do, consider supporting me or my work:  
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smallpox)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smallinger)
 
 Thanks for stopping by!
